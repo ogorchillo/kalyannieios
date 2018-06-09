@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - YandexMapKit (1.0.11)
+
+DEPENDENCIES:
+  - SDWebImage (~> 3.8)
+  - YandexMapKit
+
+SPEC CHECKSUMS:
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  YandexMapKit: 70c6e0819e88f742e3800711f7aedecaf3029300
+
+PODFILE CHECKSUM: 8ec76333b2f3e9cb8e49d38c3c9aa524692fd33f
+
+COCOAPODS: 1.0.1
